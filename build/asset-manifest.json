@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.28f60b03.css",
-    "main.js": "/static/js/main.d75ed465.js",
+    "main.js": "/static/js/main.82ad19a3.js",
     "static/media/wisatahero2.jpg": "/static/media/wisatahero2.9a9f7ec1d3709e48995d.jpg",
     "static/media/background3.jpg": "/static/media/background3.cda2de563f38e087a4e9.jpg",
     "static/media/markerkuliner.png": "/static/media/markerkuliner.8c17a7427744b5e64237.png",
@@ -26,10 +26,10 @@
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
     "main.28f60b03.css.map": "/static/css/main.28f60b03.css.map",
-    "main.d75ed465.js.map": "/static/js/main.d75ed465.js.map"
+    "main.82ad19a3.js.map": "/static/js/main.82ad19a3.js.map"
   },
   "entrypoints": [
     "static/css/main.28f60b03.css",
-    "static/js/main.d75ed465.js"
+    "static/js/main.82ad19a3.js"
   ]
 }

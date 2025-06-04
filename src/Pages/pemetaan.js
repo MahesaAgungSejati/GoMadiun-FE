@@ -193,7 +193,7 @@ const onEachFeature = (feature, layer) => {
 
   layer.setStyle({
     color: 'white',
-    weight: 0,
+    weight: 0.5,
     fillOpacity: 0.4,
     fillColor: color,
   });
